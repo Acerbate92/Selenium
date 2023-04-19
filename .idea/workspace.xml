@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27a824c8-19aa-41da-97ab-eee023b50ac9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/webselenium/AppOrderNegativeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/webselenium/AppOrderPositiveTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.appveyor.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artifacts/app-order.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +46,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="JAR Application.app-callback.jar">
+  <component name="RunManager" selected="JAR Application.app-order.jar">
     <configuration name="AppOrderPositiveTest.shouldBeSuccessfullForm" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -83,9 +80,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JAR Application.app-order.jar" />
         <item itemvalue="JAR Application.app-callback.jar" />
         <item itemvalue="Gradle.AppOrderPositiveTest.shouldBeSuccessfullForm" />
-        <item itemvalue="JAR Application.app-order.jar" />
       </list>
     </recent_temporary>
   </component>
